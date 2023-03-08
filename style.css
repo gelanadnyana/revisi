@@ -1,0 +1,1024 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+  height: fit-content;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.crsl img {
+  object-fit: cover;
+  object-position: center;
+}
+.slideimg img {
+  height: 648px;
+}
+
+.navbar {
+  background: linear-gradient(to bottom, #fff, transparent);
+}
+.navbar {
+  position: absolute;
+  height: 100px;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+.navbar-brand {
+  font-weight: 700;
+  color: black;
+}
+.hihi {
+  color: #fff;
+  background-color: #db0007;
+  margin-right: 100px;
+  border-color: #d30007;
+  box-shadow: 0 0.75rem 1.5rem -0.5rem rgb(219 0 7 / 30%);
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.hihi:hover {
+  background-color: #c50107 !important;
+  border-color: #b5060c !important;
+}
+.lio:after {
+  content: '';
+  transform: scale(0);
+  display: block;
+  padding-bottom: 0, 5rem;
+  border-bottom: 0.1rem solid #b5060c;
+  transition: 0.5s;
+}
+.lio:hover::after {
+  transform: scale(1);
+}
+.lio a:hover {
+  color: #b5060c;
+}
+.lio .lie {
+  font-weight: 500;
+}
+.navbar {
+  background-color: transparent;
+  position: fixed;
+}
+.navbar .lia .lio .lie {
+  color: black;
+}
+.liaa {
+  color: black;
+}
+.bg-white {
+  background-color: rgba(255, 255, 255, 0.831) !important;
+  transition: 0.5s !important;
+}
+/* Section 2 */
+.section2 {
+  margin-top: 60px;
+}
+.section2 h5,
+.section2 p {
+  font-size: 20px;
+}
+.section2 img {
+  padding: 20px;
+}
+.section2 h5 {
+  padding: 20px;
+}
+.section2 h1 {
+  padding: 20px;
+}
+nav.sticky {
+  padding: 5px 100px;
+  background-color: #fff;
+}
+nav.sticky ul li a {
+  color: #000;
+}
+.container2 {
+  width: 1012px;
+}
+.choose1 {
+  width: 700px;
+  margin: auto;
+  height: 385px;
+  display: flex;
+  text-align: left;
+}
+#carosel01.carousel-inner {
+  width: 300px;
+}
+.choose-dalam1 h1 {
+  width: 30%;
+}
+#hero2 {
+  margin-top: 100px;
+}
+.gung p:nth-child(2),
+.gung1 p:nth-child(2) {
+  font-size: 30px;
+  font-weight: bold;
+}
+.gung p:nth-child(1),
+.gung1 p:nth-child(1) {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+.gung h6,
+.gung1 h6 {
+  font-size: 25px;
+  font-weight: 400;
+}
+
+
+/* Section 3*/
+#hero3 {
+  margin-top: 60px;
+}
+
+/*Special-Offers*/
+nav li a {
+  color: #000;
+}
+.Spesial-Offer-P3 {
+  margin-bottom: 200px;
+}
+#Special-Offers-P1 {
+  margin-top: 200px;
+  height: 400px;
+}
+.container-SO-P1 img {
+  width: 300px;
+}
+.dodo .active:after {
+  content: '';
+  transform: scale(1);
+  display: block;
+  padding-bottom: 0, 5rem;
+  border-bottom: 0.1rem solid #b5060c;
+  transition: 0.5s;
+}
+.dodo .nav-link {
+  color: red;
+  font-weight: 600;
+}
+.konten1 img {
+  width: 670px;
+  height: 370px;
+  object-fit: cover;
+  object-position: center;
+}
+.kiri {
+  transform: translateY(30px);
+}
+.b-1 {
+  background-image: url('img/background1.jpg');
+  background-attachment: fixed !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 600px;
+}
+.dalam1 {
+  padding-top: 80px;
+}
+.dalam3 {
+  line-height: 40px;
+}
+.gogo {
+  right: 1%;
+  bottom: 10px;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0px 5px 8px 3px rgb(0,0,0,0.4);
+  border-radius: 100px;
+  width: 200px;
+  height: 60px;
+  border: none;
+  z-index: 400;
+
+}
+
+.gogo p{
+  margin-bottom: -1px;
+  font-size: 20px;
+}
+
+.footerr {
+  min-width: 100% !important;
+  height: 502px;
+  margin-top: 80px;
+  background-color: rgb(239, 230, 230);
+}
+.bang {
+  padding-top: 40px;
+}
+
+.sec1 {
+  background-image: url('img/background1.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  color: white;
+}
+.bebas {
+  transform: translateY(-220px);
+  height: auto;
+  width: 100%;
+}
+.gambar1 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 0 0 10px 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.card {
+  border: none;
+}
+.gambar1 p {
+  line-height: 2;
+}
+.gambar1 h5 {
+  font-weight: 700;
+  padding-top: 15px;
+  letter-spacing: 1px;
+}
+
+.bulat .aa {
+  min-height: 200px;
+}
+/*  footer2    */
+.container .bang {
+  width: 100% !important;
+  height: 600px !important;
+
+  background-color: rgb(253, 254, 254);
+  height: 502px;
+  margin-top: 50px;
+}
+strong {
+  line-height: 30px;
+}
+.ba {
+  transform: translateX(-40px);
+}
+.ba img {
+  border-radius: 10px 10px 0 0;
+}
+.ab {
+  transform: translateX(40px);
+}
+.ab img {
+  border-radius: 10px 10px 0 0;
+}
+.aa img {
+  border-radius: 10px 10px 0 0;
+}
+/* Footer 2 */
+.footer {
+  background-color: rgb(252, 252, 252);
+  width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+}
+.bangg {
+  padding-top: 60px;
+  height: 100%;
+}
+.hehe {
+  color: #fff;
+  background-color: #db0007;
+  margin-right: 100px;
+  border-color: #d30007;
+  box-shadow: 0 0.75rem 1.5rem -0.5rem rgb(219 0 7 / 30%);
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 130px;
+  margin-top: 20px;
+}
+.hehe:hover {
+  background-color: #c50107;
+  border-color: #b5060c;
+}
+.branding {
+  height: 200px;
+  position: relative;
+
+}
+.branding-dalam {
+  width: 100%;
+}
+.brand-1 i {
+  font-size: 50px;
+  padding: 0 40px;
+}
+.Last-Men {
+  width: 100%;
+  height: auto;
+  margin-bottom: 200px;
+}
+.Last-Men-Dalam {
+  margin-top: 100px;
+}
+.Last-Men-Dalam i {
+  font-size: 50px;
+}
+.Last-Men-Dalam p {
+  font-size: 20px;
+}
+.Kata-Kata {
+  display: flex;
+  justify-content: center;
+}
+.Kata-Kata p {
+  width: 70%;
+}
+.vii p a {
+  text-decoration: none;
+}
+.button-bokingg {
+  height: 100px;
+  transform: translateY(-140px);
+}
+
+/*DaraVillaUbud*/
+.Dv1 {
+  width: 100%;
+  height: 400px;
+}
+.dv-dalam {
+  vertical-align: center;
+  margin: auto;
+  align-items: center;
+  margin-top: 220px;
+}
+.ging {
+  width: 100%;
+  height: auto;
+}
+.ging h1 {
+  font-size: 50 !important;
+  display: flex;
+  flex-wrap: wrap;
+}
+.geng {
+  font-size: 50px;
+}
+.pcu {
+  color: #fff;
+  background-color: #db0007;
+  margin-right: 100px;
+  border-color: #d30007;
+  box-shadow: 0 0.75rem 1.5rem -0.5rem rgb(219 0 7 / 30%);
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.pcu:hover {
+  background-color: #c50107;
+  border-color: #b5060c;
+}
+.change {
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  padding-top: 250px;
+  flex-wrap: wrap;
+}
+.apc {
+  color: #fff;
+  background-color: #db0007;
+  border-color: #d30007;
+  box-shadow: 0 0.75rem 1.5rem -0.5rem rgb(219 0 7 / 30%);
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 130px;
+}
+.apc:hover {
+  background-color: #c50107;
+  border-color: #b5060c;
+}
+.oli {
+  margin-bottom: 25px;
+}
+.piu ul a {
+  width: 100%;
+  text-align: start;
+}
+li {
+  list-style-type: none;
+}
+.secret:after {
+  content: '';
+  transform: scale(1);
+  display: block;
+  padding-bottom: 0, 5rem;
+  border-bottom: 0.1rem solid #b5060c;
+  transition: 0.5s;
+  transform: translateX(-30px);
+}
+/* Akhir */
+
+/* Dara Tours*/
+.First-DT {
+  width: 100%;
+  height: 200px;
+  margin-top: 150px;
+}
+.Depth-First p {
+  padding-top: 20px;
+  padding-bottom: 0 !important;
+}
+.Depth-First h1 {
+  margin-bottom: 30px;
+}
+.Second-DT {
+  width: 100%;
+  height: auto;
+  margin-top: 200px;
+  align-items: center;
+
+}
+.Second-DT-Depth {
+  width: 80%;
+  align-items: end;
+}
+.brand-1 .Second-DT-Depth .Second-DT-Depth1 {
+  width: 525px;
+}
+.Second-DT-Depth2 .First-tab,
+.Second-DT-Depth2 .Second-tab,
+.Second-DT-Depth2 .Third-tab,
+.Second-DT-Depth2 .Fourth-tab,
+.Second-DT-Depth2 .Fifth-tab,
+.Second-DT-Depth2 .Sixth-tab {
+  max-width: 700px;
+  height: auto;
+}
+.First-tab img,
+.Second-tab img,
+.Third-tab img,
+.Fourth-tab img,
+.Fifth-tab img,
+.Sixth-tab img {
+  height: 300px;
+  width: 700px;
+  object-fit: cover;
+  object-position: center;
+}
+.SDD2-Depth i {
+  padding-top: 4.5px;
+}
+/*End*/
+
+/*Gallery*/
+
+/*End*/
+.wpcf7-form {
+
+  padding-left: 60px;
+  margin-bottom: 150px;
+  justify-content: space-around;
+}
+.wpcf7-form p {
+}
+.wpcf7-form label {
+}
+.wpcf7-select {
+  border-radius: 10px;
+  border: 1px solid #a9a9a9;
+  padding: 5px;
+  width: 430px;
+}
+.wpcf7-select :last-of-type {
+}
+
+.wpcf7-form label {
+  font-size: 18px;
+}
+.has-spinner {
+  color: #fff;
+  background-color: #db0007;
+
+  border-color: #d30007 !important;
+  font-weight: 400;
+  letter-spacing: 1px;
+  width: 130px;
+  border-radius: 10px;
+  padding: 10px 0 !important;
+  font-size: 20px;
+  overflow-x: hidden;
+  text-align: center;
+  box-shadow: 0 0.75rem 1.5rem -0.5rem rgb(219 0 7 / 30%);
+  border: 1px solid #a9a9a9;
+  object-position: center;
+  white-space: nowrap;
+  text-align: center;
+
+  margin: 30px 60px 0 0;
+}
+.wpcf7-spinner p {
+  object-position: 20px;
+}
+input .wpcf7-submit:hover {
+  background-color: #c50107;
+  border-color: #b5060c;
+}
+
+input {
+  border-radius: 9px;
+  border: 1px solid #a9a9a9;
+  width: 430px;
+  padding: 4px;
+ 
+}
+iframe{
+  width: 700px;
+  height: 700px;
+  margin-right: 100px;
+}
+.copiright-niii p {
+  margin-top: 20px;
+  padding-top: 20px;  
+
+  width: 100%;
+
+}
+
+/*Responsive Navbar*/
+@media only screen and (max-width: 991px) {
+  .gllry img {
+    width: 100%;
+  }
+  .contactt-dara-villa {
+    display: block !important;
+  }
+  nav li a{
+    font-size: 25px;
+  }
+}
+
+/*Responsive*/
+@media only screen and (max-width: 640px) {
+  .wpcf7-form {
+    display: block;
+  }
+  .wpcf7-select{
+    width: 200px;
+  }
+  .contactt-dara-villa iframe{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  select{
+    width: 150px;
+  }
+  .res-1-2 {
+    display: block;
+  }
+  .navbar-brand {
+    margin: start;
+  }
+  .nav {
+    width: 100%;
+  }
+  .gung,
+  .gung1 {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px 0;
+  }
+  .gung .Obpp,
+  .gung1 .Obpp {
+    /* transform: translateX(130px); */
+    margin: auto;
+  }
+  .gung .Obrv,
+  .gung .Obrv {
+    /* transform: translateX(22px); */
+    margin: auto;
+  }
+  #hero3 {
+    margin-top: 60px;
+  }
+  /*Section 5 */
+  .bebas {
+    width: 100%;
+  }
+  .turun {
+    display: block !important;
+    margin-bottom: 100px;
+    width: 95%;
+  }
+  .card {
+    margin: 25px auto 0;
+  }
+  .branding {
+    height: 600px;
+    transform: translateY(100px);
+  }
+  .branding-dalam {
+    position: static;
+    transform: translateY(70px);
+  }
+  .branding-bungkus {
+    display: block !important;
+    line-height: 100px;
+  }
+  .Last-Men {
+    transform: translateY(20px);
+    position: static;
+    height: 400px;
+    align-items: center;
+    vertical-align: middle;
+  }
+  .Last-Men-Dalam {
+    transform: translateY(40px);
+  }
+  .bangg {
+    width: 100%;
+    height: auto;
+  }
+  .panah1 {
+    display: block !important;
+    margin: 20px auto 0;
+    width: 100%;
+  }
+  .vii {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+  }
+  .copiright-niii {
+    text-align: center;
+  }
+  /*
+  * Start Spesial-Offers
+  */
+  .Spesial-Offer-P3 {
+    display: block;
+  }
+  .down-1 {
+    display: block;
+    text-align: left;
+  }
+  .contact {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .addres,
+  .phone,
+  .whatsapp,
+  .email {
+    width: 100%;
+    max-width: 400px;
+    margin: 10px;
+  }
+}
+
+/*
+* Dara Villa Ubud Responsive
+*/
+@media only screen and (max-width: 540px) {
+  .logo-header {
+    display: none;
+  }
+  .gallery-depth {
+    display: block;
+    margin: 0 auto;
+  }
+  .rs-img {
+    width: 100%;
+    height: auto;
+  }
+  .rs-img img {
+    width: 400px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .rs-img img {
+    width: 310px;
+  }
+  .Second-DT-Depth{
+    width: 350px;
+  }
+  .Second-DT-Depth1{
+    width: 300px;
+    font-size: 12px;
+  }
+  .Second-DT{
+    width: 100%;
+  }
+  .contactt-dara-villa {
+    display: block !important;
+  }
+  .contactt-dara-villa iframe {
+    width: 300px;
+    height: 300px;
+  }
+  body {
+    overflow-x: hidden;
+  }
+  .button-bokingg {
+    transform: translateY(-300px);
+  }
+  span {
+    width: 50%;
+  }
+  input {
+    width: 200px;
+    overflow-x: hidden;
+  }
+
+  .Last-Men {
+    height: 0;
+    transform: translateY(-350px);
+  }
+  .Last-Men-Dalam {
+    transform: translateY(-20px);
+    height: auto;
+  }
+}
+.Special-Offers-P1
+/* Akhir */
+
+/* Navbar Wordpress */
+.custom-logo img {
+  width: 200px !important;
+  height: 100px;
+}
+.custom-logo-link:hover::after {
+  content: none;
+  transform: translateY(0, 0);
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 80px;
+  position: absolute;
+  z-index: 100;
+  background: linear-gradient(to bottom, #fff, transparent);
+  top: 0;
+  box-sizing: border-box;
+}
+
+ul.menu-menu-baru-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav li {
+  margin: 0 15px; /* jarak antar li */
+}
+li a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+.nav-item a:after {
+  content: '';
+  transform: scale(0);
+  display: block;
+  padding-bottom: 0, 5rem;
+  border-bottom: 0.1rem solid #b5060c;
+  transition: 0.5s;
+}
+.nav-item a:hover::after {
+  transform: scale(1);
+}
+a:hover {
+  color: black;
+}
+
+.hihi a:hover::after {
+  content: none;
+}
+.pcu a:hover::after,
+.apc a:hover::after {
+  content: none;
+}
+/*Tombol Arrow ke Atas*/
+.Cover-Arrow-up{
+  width: fit-content  ;
+  height: auto;
+  cursor: pointer;
+  margin-left: 40px;
+
+}
+.arruuw-up{
+  border: 1.2px solid black;
+  width: 35px;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  align-items: start;
+  font-size: 20px;
+  font-weight: 700;
+} 
+.arruuw-up:hover{
+  background:rgb(215, 211, 211);
+  border: solid rgb(215, 211, 211);
+  color: rgb(255, 255, 255);
+}
+#Special-Offers-Gallery{
+  margin-top: 180px;
+  margin-bottom: 100px;
+}
+/* Akhir */
+
+@media only screen and (max-width: 986px) {
+  .navbar-brand {
+    display: none;
+  }
+  .offcanvas-body {
+    margin-right: 60px !important;
+    margin-left: none;
+  }
+  .navbar-nav {
+    margin-right: 25px;
+  }
+
+  .navbar-nav li {
+    padding: 10px;
+  }
+  .menu-item-43 a,
+  .menu-item-56 a,
+  .menu-item-78 a,
+  .menu-item-86 a,
+  .menu-item-85 a,
+  .menu-item-47 a {
+    font-size: 25px;
+  }
+}
+
+
+/**
+* Css Gelan
+/
+
+/* awal content */
+
+.cntainr {
+  margin: 0;
+  padding: 0;
+}
+/* akhir content */
+
+/* awal  book now */
+.booknow button {
+  transform: translateX(1000px);
+  border-radius: 30px;
+  right: 190px;
+  border: none;
+}
+.booknow {
+  position: fixed;
+  display: flex;
+  right: 1%;
+  width: 150px;
+  height: 45px;
+  z-index: 222px;
+  bottom: 0;
+  border-radius: 20px;
+  border: none;
+}
+.booknow img {
+  width: 50px;
+  height: 45px;
+  padding-right: 5px;
+  transform: rotate(360deg);
+}
+.booknow a {
+  text-decoration: none;
+  color: #556b2f;
+}
+.booknow a:hover {
+  color: #8fbc8f;
+  transition: 0.5s;
+}
+/* akhir book now */
+/* Gallery */
+
+/* gallery responsive */
+@media only screen and (max-width: 1190px) {
+  .gllry img {
+    padding: 20px;
+  }
+}
+@media only screen and (max-width: 900px) {
+
+}
+@media only screen and (max-width: 600px) {
+  .countainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .countainer img {
+    width: 100%;
+    height: auto;
+    margin: 5px;
+  }
+  .gelan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .gelan .gllry {
+    width: 100%;
+    margin: auto;
+  }
+}
+/* akhir gallery */
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery-row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.gallery-item {
+  width: calc(33.33% - 10px);
+  margin-right: 10px;
+  position: static;
+}
+
+.gallery-item:nth-child(3n) {
+  margin-right: 10;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+}
+@media only screen and (max-width: 414px) {
+  .gi-01{
+    height: 100px;
+  }
+}
+/* logo dara villa */
+.custom-logo{
+  width: 200px;
+  height: auto;
+}
+/* contact form 7 gelan */
+iframe{
+  width: 500px !important;
+}
+
+.gllry{
+  overflow: hidden;
+  width: 100%;
+}
+
+.gllry img{
+  transition: transform .2s;
+}
+
+.gllry img:hover{
+  transform: scale(1.5);
+  content: 'test';
+}
+.responsive-id{
+  display: none;
+}
+.responsive-content{
+  display: none;
+}
+
+@media screen and (max-width:400px){
+  .foto-foto{
+    display: none !important;
+  }
+
+  .responsive-id{
+    display: block !important;
+  }
+  .responsive-content{
+    display: block !important;
+  }
+}
+
